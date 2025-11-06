@@ -34,7 +34,7 @@ Here are some of the projects and platforms I’ve developed for **Neroex**:
 ### 🌱 [Marketplace – marketplace.neroex.com](https://marketplace.neroex.com)
 > The trusted marketplace for sustainable solutions. Work with verified partners for sustainability, compliance, and innovation — all on a single platform.
 
-### 🗺️ [Maps Platform – maps.neroex.com](https://maps.neroex.com)
+### 🗺️ [Maps Platform – map.neroex.com](https://map.neroex.com)
 > Sustainability Map of India. Search companies, explore their sustainability initiatives, and add new company data.
 
 ### 🏛️ [Main Site – neroex.com](https://neroex.com)
