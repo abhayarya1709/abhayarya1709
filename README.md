@@ -52,7 +52,7 @@ Here are some of the projects and platforms I’ve developed for **Neroex**:
 ---
 
 ### 🧩 Additional Projects
-- 🧭 **SusGPT** – AI assistant for ESG & GHG compliance  
+- 🧭 **Clima AI** – AI assistant for ESG & GHG compliance  
 - ☁️ **Nmail** – Custom email service using AWS SES  
 - 📊 **GHG Report Automation** – AI-based carbon accounting and report generation  
 
@@ -60,13 +60,13 @@ Here are some of the projects and platforms I’ve developed for **Neroex**:
 
 ### 📫 Connect With Me
 🌐 [Website](https://neroex.com)  
-💼 [LinkedIn](https://linkedin.com/in/abhayarya-iitb)  
-📧 abhay@neroex.com  
+💼 [LinkedIn](https://linkedin.com/in/abhayarya/)  
+📧 abhayarya2002@gmail.com
 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhayarya&show_icons=true&theme=tokyonight" alt="Abhay's GitHub stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayarya&layout=compact&theme=tokyonight" alt="Top Langs" />
@@ -74,8 +74,4 @@ Here are some of the projects and platforms I’ve developed for **Neroex**:
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abhayarya.abhayarya" alt="Visitors" />
-</p>
-
----
-
-⭐️ _“Building the future of sustainability, one repo at a time.”_
+</p> -->
