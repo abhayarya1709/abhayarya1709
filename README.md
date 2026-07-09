@@ -1,158 +1,264 @@
-```md
-<h1 align="center">👋 Hi, I'm Abhay Arya</h1>
+<div align="center">
 
-<p align="center">
-  <b>Building AI Products That Solve Real-World Problems</b><br>
-  Founder & CTO | Full-Stack Engineer | AI Systems Builder
+# 👋 Hi, I'm Abhay Arya
+
+### Founder & CTO • AI Engineer • Product Builder
+
+Building AI products that simplify personal finance and accelerate sustainability.
+
+<p>
+<a href="https://qubera.club">
+<img src="https://img.shields.io/badge/Qubera-AI%20Finance-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://neroex.com">
+<img src="https://img.shields.io/badge/Neroex-Sustainability-16A34A?style=for-the-badge&logo=leaflet&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abhayarya">
+<img src="https://img.shields.io/badge/LinkedIn-Abhay%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
----
+<p>
+<img src="https://komarev.com/ghpvc/?username=abhayarya1709&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/abhayarya1709?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/abhayarya1709?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
-## 💡 About Me
-
-I'm a founder and full-stack engineer passionate about building AI-first products with long-term impact.
-
-I'm currently building **Qubera**, an AI-powered personal finance platform that helps people understand, optimize, and grow their financial lives through intelligent insights, automation, and conversational AI.
-
-Alongside Qubera, I continue to build **Neroex**, a sustainability ecosystem focused on helping businesses accelerate their ESG and climate initiatives through AI-powered tools and digital infrastructure.
-
-My interests span AI, product engineering, distributed systems, and building technology that millions of people can use every day.
+</div>
 
 ---
 
-## 🚀 Currently Building
+# 🚀 About Me
 
-### 💰 Qubera
-An AI-powered financial companion designed to make personal finance simple.
+I'm a founder and full-stack engineer focused on building AI products with real-world impact.
 
-Current areas of focus:
-- AI Financial Assistant (Voice + Chat)
-- Smart Expense Tracking
-- Net Worth & Wealth Dashboard
-- AI Financial Insights & Recommendations
-- Goal-based Financial Planning
-- Insurance & Investment Intelligence
-- Personal Finance Automation
+Currently building **Qubera**, an AI-powered financial operating system helping users understand, manage, and grow their wealth through intelligent automation.
 
----
+Alongside Qubera, I'm also building **Neroex**, an AI-driven sustainability ecosystem focused on ESG, GHG reporting, climate intelligence, and sustainability infrastructure.
 
-### 🌍 Neroex
-An AI-driven sustainability ecosystem helping organizations measure, manage, and improve sustainability performance.
+My interests include:
 
-Projects include:
-- ESG & GHG Reporting Automation
-- Sustainability Marketplace
-- Climate Intelligence
-- Corporate Sustainability Analytics
-
----
-
-## 🧠 Interests
-
-- Artificial Intelligence & LLM Applications
-- Agentic AI Systems
-- RAG & Knowledge Retrieval
+- Artificial Intelligence
 - FinTech
+- Product Engineering
+- Agentic AI
+- Distributed Systems
 - Sustainability Technology
-- Product Design
-- Scalable Backend Systems
+- Developer Infrastructure
 - Startup Building
 
 ---
 
-## ⚙️ Tech Stack
+# 💰 Building Qubera
 
-**Languages**
+<div align="center">
 
-`Python` · `TypeScript` · `JavaScript` · `Dart`
+### AI-Powered Personal Finance Platform
 
-**Backend**
+*"Your personal financial companion."*
 
-`FastAPI` · `Django` · `Node.js` · `PostgreSQL` · `Redis`
+</div>
 
-**Frontend**
+### Current Features
 
-`React` · `Next.js` · `Flutter`
+- 🤖 AI Financial Assistant
+- 🎙️ Voice-to-Voice Financial Companion
+- 💸 Smart Expense Tracking
+- 📊 Wealth Dashboard
+- 🎯 Goal-based Financial Planning
+- 🛡️ Insurance Intelligence
+- 📈 Investment Insights
+- 🧾 AI Budget Planning
+- 📉 Financial Health Score
+- 🔔 Personalized Recommendations
 
-**AI**
+### Vision
 
-`OpenAI` · `LangChain` · `Qdrant` · `Vector Databases` · `RAG` · `AI Agents`
-
-**Cloud & DevOps**
-
-`AWS` · `Docker` · `Kubernetes` · `GitHub Actions`
-
----
-
-# 🚀 Featured Projects
-
-## 💰 Qubera
-> AI-powered personal finance platform helping users understand, manage, and grow their money through automation and intelligent insights.
-
-**Key Features**
-- AI Financial Companion
-- Expense Analytics
-- Wealth Tracking
-- Goal Planning
-- Insurance Intelligence
-- Financial Health Score
-- Smart Recommendations
+Build the world's most intelligent personal finance platform that helps everyone make better financial decisions through AI.
 
 ---
 
-## 🌍 Neroex
-> Sustainability ecosystem connecting organizations with AI-powered sustainability solutions.
+# 🌍 Building Neroex
+
+<div align="center">
+
+### AI for Sustainability
+
+</div>
+
+Helping organizations become more sustainable through AI-powered software.
+
+### Products
 
 ### 🌱 Marketplace
+
 https://marketplace.neroex.com
 
-A marketplace for verified sustainability consultants, products, and services.
+Verified sustainability consultants, products and services.
 
-### 🗺️ Sustainability Maps
-https://map.neroex.com
-
-Explore sustainability initiatives and organizations across India.
+---
 
 ### 🤖 Clima AI
+
 https://clima.neroex.com
 
-AI assistant for ESG, GHG reporting, and climate intelligence.
+AI assistant for ESG, GHG reporting and sustainability.
+
+---
 
 ### 📊 Greener
+
 https://greener.neroex.com
 
-Corporate sustainability profiles and ESG insights.
+Corporate ESG intelligence platform.
+
+---
+
+### 🗺 Sustainability Map
+
+https://map.neroex.com
+
+Discover sustainability initiatives across India.
+
+---
 
 ### 🔗 Connexus
+
 https://connexus.neroex.com
 
-AI-powered relationship and network management platform.
+AI-powered relationship management platform.
 
 ---
 
-## 🧩 Other Projects
+# ⚙️ Tech Stack
 
-- Nmail — Email platform powered by AWS SES
-- GHG Report Automation
-- ESG Intelligence Platform
-- AI Workflow Automation
-- Internal AI Tools & Developer Utilities
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,java"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,redis"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter"/>
+
+</p>
+
+## AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+OpenAI • LangChain • Vector Databases • RAG • AI Agents • Qdrant
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git"/>
+
+</p>
 
 ---
 
-## 📫 Connect
+# 🏆 Featured Projects
 
-🌐 Website: https://qubera.club
-
-🌱 Neroex: https://neroex.com
-
-💼 LinkedIn: https://linkedin.com/in/abhayarya/
-
-📧 Email: abhayarya2002@gmail.com
+| Project | Description |
+|---------|-------------|
+| 💰 Qubera | AI-powered personal finance platform |
+| 🌍 Neroex | Sustainability ecosystem |
+| 🤖 Clima AI | ESG & GHG AI Assistant |
+| 📊 Greener | ESG intelligence platform |
+| 🌱 Marketplace | Sustainability marketplace |
+| 🔗 Connexus | AI relationship management |
+| ✉️ Nmail | AWS SES email platform |
 
 ---
 
-## 📈 GitHub
+# 📈 GitHub Statistics
 
-I enjoy building products across AI, fintech, sustainability, and developer infrastructure while exploring scalable systems, intelligent automation, and practical applications of large language models.
-```
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayarya1709&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayarya1709&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhayarya1709&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayarya1709&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+- Large Language Models
+- Agentic AI Systems
+- Financial Intelligence
+- Voice AI
+- Multi-Agent Workflows
+- Knowledge Graphs
+- RAG Architectures
+- AI Infrastructure
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://qubera.club">
+<img src="https://img.shields.io/badge/Qubera-Visit-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://neroex.com">
+<img src="https://img.shields.io/badge/Neroex-Visit-16A34A?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/abhayarya">
+<img src="https://img.shields.io/badge/LinkedIn-Abhay%20Arya-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhayarya2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building products that make intelligence accessible."
+
+</div>
