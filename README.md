@@ -1,77 +1,158 @@
+```md
 <h1 align="center">👋 Hi, I'm Abhay Arya</h1>
 
 <p align="center">
-  <b>Building AI for Sustainability 🌍</b><br>
-  IIT Bombay | Fullstack Engineer | Founder @ <a href="https://neroex.com" target="_blank">Neroex</a>
+  <b>Building AI Products That Solve Real-World Problems</b><br>
+  Founder & CTO | Full-Stack Engineer | AI Systems Builder
 </p>
 
 ---
 
-### 💡 About Me
-I'm passionate about building technology that drives measurable sustainability impact.  
-Currently leading **[Neroex](https://neroex.com)** — a sustainability-focused ecosystem connecting businesses with verified sustainability consultants, products, and AI tools.  
-Also developing **ClimaAI**, an AI assistant for ESG and GHG reporting automation.
+## 💡 About Me
+
+I'm a founder and full-stack engineer passionate about building AI-first products with long-term impact.
+
+I'm currently building **Qubera**, an AI-powered personal finance platform that helps people understand, optimize, and grow their financial lives through intelligent insights, automation, and conversational AI.
+
+Alongside Qubera, I continue to build **Neroex**, a sustainability ecosystem focused on helping businesses accelerate their ESG and climate initiatives through AI-powered tools and digital infrastructure.
+
+My interests span AI, product engineering, distributed systems, and building technology that millions of people can use every day.
 
 ---
 
-### 🧠 What I’m Working On
-- 🌍 **Sustainability AI Tools** — GHG & ESG data automation and carbon tracking  
-- 🤖 **AI Infrastructure** — RAG systems, vector databases (Qdrant), and LLM pipelines  
-- ☁️ **Fullstack + DevOps** — Python, FastAPI, Django, React, AWS, Docker, Kubernetes  
-- 💡 **Vision** — To make sustainability measurable, traceable, and rewarding  
+## 🚀 Currently Building
+
+### 💰 Qubera
+An AI-powered financial companion designed to make personal finance simple.
+
+Current areas of focus:
+- AI Financial Assistant (Voice + Chat)
+- Smart Expense Tracking
+- Net Worth & Wealth Dashboard
+- AI Financial Insights & Recommendations
+- Goal-based Financial Planning
+- Insurance & Investment Intelligence
+- Personal Finance Automation
 
 ---
 
-### ⚙️ Tech Stack
-`Python` · `FastAPI` · `Django` · `React` · `Next.js` · `AWS` · `Docker` · `Kubernetes` · `PostgreSQL` · `LangChain` · `Qdrant`
+### 🌍 Neroex
+An AI-driven sustainability ecosystem helping organizations measure, manage, and improve sustainability performance.
+
+Projects include:
+- ESG & GHG Reporting Automation
+- Sustainability Marketplace
+- Climate Intelligence
+- Corporate Sustainability Analytics
 
 ---
 
-## 🚀 Projects & Creations
+## 🧠 Interests
 
-Here are some of the projects and platforms I’ve developed for **Neroex**:
-
-### 🌱 [Marketplace – marketplace.neroex.com](https://marketplace.neroex.com)
-> The trusted marketplace for sustainable solutions. Work with verified partners for sustainability, compliance, and innovation — all on a single platform.
-
-### 🗺️ [Maps Platform – map.neroex.com](https://map.neroex.com)
-> Sustainability Map of India. Search companies, explore their sustainability initiatives, and add new company data.
-
-### 🏛️ [Main Site – neroex.com](https://neroex.com)
-> Central hub for all Neroex platforms, projects, and resources.
-
-### 🤖 [Clima AI – clima.neroex.com](https://clima.neroex.com)
-> Intelligent companion for sustainable living, climate awareness, and environmental solutions.
-
-### 📊 [Greener – greener.neroex.com](https://greener.neroex.com)
-> Sustainability insights for India’s top companies. Discover how leading corporations perform on environmental, social, and governance metrics with Greener’s comprehensive sustainability profiles.
-
-### 🔗 [Connexus – connexus.neroex.com/login](https://connexus.neroex.com/login)
-> A self-network management platform providing AI-powered insights and recommendations. Track interactions, categorize connections, monitor network health, and manage relationships efficiently through dashboards, reminders, and analytics.
+- Artificial Intelligence & LLM Applications
+- Agentic AI Systems
+- RAG & Knowledge Retrieval
+- FinTech
+- Sustainability Technology
+- Product Design
+- Scalable Backend Systems
+- Startup Building
 
 ---
 
-### 🧩 Additional Projects
-- 🧭 **Clima AI** – AI assistant for ESG & GHG compliance  
-- ☁️ **Nmail** – Custom email service using AWS SES  
-- 📊 **GHG Report Automation** – AI-based carbon accounting and report generation  
+## ⚙️ Tech Stack
+
+**Languages**
+
+`Python` · `TypeScript` · `JavaScript` · `Dart`
+
+**Backend**
+
+`FastAPI` · `Django` · `Node.js` · `PostgreSQL` · `Redis`
+
+**Frontend**
+
+`React` · `Next.js` · `Flutter`
+
+**AI**
+
+`OpenAI` · `LangChain` · `Qdrant` · `Vector Databases` · `RAG` · `AI Agents`
+
+**Cloud & DevOps**
+
+`AWS` · `Docker` · `Kubernetes` · `GitHub Actions`
 
 ---
 
-### 📫 Connect With Me
-🌐 [Website](https://neroex.com)  
-💼 [LinkedIn](https://linkedin.com/in/abhayarya/)  
-📧 abhayarya2002@gmail.com
+# 🚀 Featured Projects
+
+## 💰 Qubera
+> AI-powered personal finance platform helping users understand, manage, and grow their money through automation and intelligent insights.
+
+**Key Features**
+- AI Financial Companion
+- Expense Analytics
+- Wealth Tracking
+- Goal Planning
+- Insurance Intelligence
+- Financial Health Score
+- Smart Recommendations
 
 ---
 
-### 📈 GitHub Stats
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayarya&show_icons=true&theme=tokyonight" alt="Abhay's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayarya&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+## 🌍 Neroex
+> Sustainability ecosystem connecting organizations with AI-powered sustainability solutions.
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhayarya.abhayarya" alt="Visitors" />
-</p> -->
+### 🌱 Marketplace
+https://marketplace.neroex.com
+
+A marketplace for verified sustainability consultants, products, and services.
+
+### 🗺️ Sustainability Maps
+https://map.neroex.com
+
+Explore sustainability initiatives and organizations across India.
+
+### 🤖 Clima AI
+https://clima.neroex.com
+
+AI assistant for ESG, GHG reporting, and climate intelligence.
+
+### 📊 Greener
+https://greener.neroex.com
+
+Corporate sustainability profiles and ESG insights.
+
+### 🔗 Connexus
+https://connexus.neroex.com
+
+AI-powered relationship and network management platform.
+
+---
+
+## 🧩 Other Projects
+
+- Nmail — Email platform powered by AWS SES
+- GHG Report Automation
+- ESG Intelligence Platform
+- AI Workflow Automation
+- Internal AI Tools & Developer Utilities
+
+---
+
+## 📫 Connect
+
+🌐 Website: https://qubera.club
+
+🌱 Neroex: https://neroex.com
+
+💼 LinkedIn: https://linkedin.com/in/abhayarya/
+
+📧 Email: abhayarya2002@gmail.com
+
+---
+
+## 📈 GitHub
+
+I enjoy building products across AI, fintech, sustainability, and developer infrastructure while exploring scalable systems, intelligent automation, and practical applications of large language models.
+```
