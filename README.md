@@ -194,19 +194,9 @@ OpenAI • LangChain • Vector Databases • RAG • AI Agents • Qdrant
 
 # 📈 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayarya1709&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayarya1709&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhayarya1709&theme=transparent&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayarya1709&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
